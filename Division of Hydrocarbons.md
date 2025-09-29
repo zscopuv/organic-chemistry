@@ -6,6 +6,8 @@
 - **saturated** (**-**, simple bonds), max number of **Hydrogens**:
     - **alkanes**
         > Formula: **C<sub>n</sub>H<sub>2n+2</sub>**
+    - **cycloalkanes**
+        > Formula: **C<sub>n</sub>H<sub>2n**
 - unsaturated (double, triple bonds...):
     - **alkenes:**
         > Formula: **C<sub>n</sub>H<sub>2n</sub>**
